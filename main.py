@@ -1,6 +1,9 @@
+from service import run
+
+
 def main():
-    print("Hello from bio-face!")
+    run()
 
 
 if __name__ == "__main__":
-    main()
+    run()
